@@ -2,7 +2,9 @@
 A research and development repository by Hameed Afzal dedicated to building tools, frameworks, and best practices for responsible, transparent, and secure AI governance.
 
 📌 Overview
+
 This repository explores the design and implementation of governance mechanisms that ensure ethical, safe, and accountable AI systems. It combines theoretical insights with practical tools to address challenges in:
+
 ✅ AI policy & compliance (aligning AI with regulations and standards)
 
 ✅ Ethical decision-making frameworks (fairness, accountability, transparency)
